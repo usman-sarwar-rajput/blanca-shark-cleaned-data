@@ -1,0 +1,7 @@
+{
+  "complete_days": 22,
+  "total_hourly_records": 528,
+  "first_and_last_quiet_proxy_pass": true,
+  "period_and_daily_means_agree": true,
+  "new_significance_tests": false
+}

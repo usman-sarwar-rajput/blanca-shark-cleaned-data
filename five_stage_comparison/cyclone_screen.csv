@@ -1,0 +1,6 @@
+stage,storm,sid,minimum_screened_distance_km,matched_track_points,within_500km
+Just before,ANDRES,2015148N11250,1369.0999876445926,8,False
+Blanca active dates,ANDRES,2015148N11250,1281.952336115243,18,False
+Blanca active dates,BLANCA,2015152N12258,272.30641324067716,29,True
+Just after,CARLOS,2015162N12262,1885.7517271389295,5,False
+Later quiet*,CARLOS,2015162N12262,1589.6574841125714,12,False
