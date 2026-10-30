@@ -1,0 +1,4 @@
+phase,event_matched_difference_m,contextual_windows,context_abs_ge_event,context_abs_ge_event_fraction,context_min_difference,context_max_difference,meaning
+pre48_24,-0.6126893939393939,64,54,0.84375,-32.233901515151516,48.87594696969696,Descriptive rank among overlapping contextual periods; not a p-value or non-storm control
+pre24,0.2414772727272728,64,63,0.984375,-32.08901515151515,53.82196969696969,Descriptive rank among overlapping contextual periods; not a p-value or non-storm control
+post24,0.8768939393939394,64,53,0.828125,-33.58806818181818,54.68181818181818,Descriptive rank among overlapping contextual periods; not a p-value or non-storm control

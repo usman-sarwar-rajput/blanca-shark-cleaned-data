@@ -1,0 +1,8 @@
+{
+  "model_based_onset_utc": null,
+  "observational_exposure_confirmed": false,
+  "wind_threshold_m_s": 17.5,
+  "wave_threshold_m": 4,
+  "consecutive_hours": 3,
+  "warning": "Models and point matching do not establish measured local exposure. Geographic scenarios are not confidence bounds."
+}

@@ -1,0 +1,9 @@
+{
+  "independent_ols_and_hac_comparisons": 9,
+  "holm_family_size": 9,
+  "synthetic_aggregation_and_gap_checks": true,
+  "event_hour_independent_aggregation_checks": 72,
+  "complete_environment_event_hours": 144,
+  "original_shark_zip_unchanged": true,
+  "protected_prior_files_unchanged": 305
+}

@@ -1,0 +1,22 @@
+{
+  "raw_rows": 1622299,
+  "invalid_timestamps": 0,
+  "raw_duplicate_timestamp_rows": 7064,
+  "raw_zip_sha256": "387b51958c0707dbeaca309e32c64a5b57ddf46b8b74d16a70ea1bf1a1bc1738",
+  "nonfinite_depth_rows_excluded": 7063,
+  "identical_finite_rows_removed": 1,
+  "finite_depth_duplicate_timestamps": 0,
+  "interior_records": 1549440,
+  "first_utc": "2014-11-07 00:00:00+00:00",
+  "last_utc": "2015-08-02 23:59:45+00:00",
+  "median_interval_seconds": 15.0,
+  "maximum_interval_seconds": 15.0,
+  "negative_depth_fraction": 0.02161555142503098,
+  "minimum_depth_m": -1.5,
+  "maximum_depth_m": 281.0,
+  "minimum_temperature_c": 8.3999996,
+  "maximum_temperature_c": 24.6,
+  "event_negative_depth_fraction": 0.0017252604166666666,
+  "event_minimum_depth_m": -1.5,
+  "event_maximum_vertical_raw_step_m": 10.0
+}
