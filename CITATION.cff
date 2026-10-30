@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this derived analysis release and the original telemetry dataset."
+title: "Hurricane Blanca juvenile white shark analysis data"
+authors:
+  - family-names: Rajput
+    given-names: Usman Sarwar
+type: dataset
+repository-code: "https://github.com/usman-sarwar-rajput/blanca-shark-cleaned-data"
+date-released: 2026-10-30

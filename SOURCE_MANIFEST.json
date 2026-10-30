@@ -1,0 +1,137 @@
+[
+  {
+    "file": "sources/14_07-132980-4-GPE3.nc",
+    "bytes": 11956653,
+    "sha256": "cbd01579ae09f349cff5c6b2c43de5e8891b97c54dc3499788376ea5cf9482d2"
+  },
+  {
+    "file": "sources/NHC_Blanca.pdf",
+    "bytes": 461553,
+    "sha256": "a7547baa2f6891f56d5300038f4e2d337db075b01bdbbdaef160e0a601792256"
+  },
+  {
+    "file": "sources/out-Labels.csv",
+    "bytes": 105,
+    "sha256": "6938f036c9b09500bb25715df4bf0ded6786de7879242363d9c76301a0dcd1ad"
+  },
+  {
+    "file": "sources/out-RTC.csv",
+    "bytes": 207,
+    "sha256": "94d9f65ad18fd5e25087ee1ab3ae6934f01afd4f15f75b0e6415d30905f899d4"
+  },
+  {
+    "file": "sources/out-Summary.csv",
+    "bytes": 392,
+    "sha256": "4679a09f3678c489919c2157fe15d4ca8a58de76541395955dded22e599eb84e"
+  },
+  {
+    "file": "sources/site_000.json",
+    "bytes": 44455,
+    "sha256": "a3a0ae67cda5b6d7a67f6a416239887c9f8f5ea012fa07b1cae185ba8eb97c35"
+  },
+  {
+    "file": "sources/site_001.json",
+    "bytes": 44477,
+    "sha256": "797b429a8bcc9ddaaeb46dacc134e03af9509142e9ecf40d3b3fd7b75f55df6e"
+  },
+  {
+    "file": "sources/site_002.json",
+    "bytes": 44497,
+    "sha256": "81855085d28817a8cb73d97102ccc9cc415895e0e9cc0925786661f0d6cfa1a8"
+  },
+  {
+    "file": "sources/site_003.json",
+    "bytes": 44464,
+    "sha256": "99782d169806445ba61b91e7e3f063a98399d74e680087cacf31f7575ca2e08a"
+  },
+  {
+    "file": "sources/site_004.json",
+    "bytes": 44487,
+    "sha256": "d5d03604d8cff5108b28f928964065079e89e7b0cd89a70123b840ee46387201"
+  },
+  {
+    "file": "sources/site_005.json",
+    "bytes": 44499,
+    "sha256": "94b784ebae14d43b8d0c528545633bd2f1ba4f16ba820d8c1d99276bac3044b1"
+  },
+  {
+    "file": "sources/site_006.json",
+    "bytes": 44469,
+    "sha256": "c92750a5028036a7834a603eddf46696fea64c44734d69028bd5e068a55094e7"
+  },
+  {
+    "file": "sources/site_007.json",
+    "bytes": 44460,
+    "sha256": "6dc630872a8a901d7ca0f22e1fe611955ddb29b24a45ea88230b69d5c9646c56"
+  },
+  {
+    "file": "sources/site_008.json",
+    "bytes": 44427,
+    "sha256": "12dc65802dc1805a270faa7fc3246854226959f58303e5aa175b14f73e7a2267"
+  },
+  {
+    "file": "sources/site_009.json",
+    "bytes": 44407,
+    "sha256": "8d6f8af0c6d055b0fe36a6ad26df7bddae931b76871ac6a2c402bc02b55479c8"
+  },
+  {
+    "file": "sources/site_010.json",
+    "bytes": 44407,
+    "sha256": "7c097ad74dd3f4eabbaf261edc85e91b70faca1a99de52bbd18420cf850469c1"
+  },
+  {
+    "file": "sources/site_011.json",
+    "bytes": 44437,
+    "sha256": "c774349f8bcb25c1d265fcbef7890a85533dfdab60c1fe4f4caea7e154fd8390"
+  },
+  {
+    "file": "sources/site_012.json",
+    "bytes": 44407,
+    "sha256": "85a278675f4ea79db6451426a87c5a692299c6daadb3c29520bdfb90d0f25979"
+  },
+  {
+    "file": "sources/site_013.json",
+    "bytes": 44402,
+    "sha256": "5849eea6ef02d4eb45b7dc7e135b00836ca42a049f9b8c476ebe87b974c77865"
+  },
+  {
+    "file": "sources/site_014.json",
+    "bytes": 44404,
+    "sha256": "adaaf9924b79990472a2e9b7be357c2658b5e260448500561054b5ff753c37cb"
+  },
+  {
+    "file": "sources/site_015.json",
+    "bytes": 44404,
+    "sha256": "5b54901ae1a25440944d4c4c15a53465241e01dafc7f0cdc827ce03b79948ba3"
+  },
+  {
+    "file": "sources/site_016.json",
+    "bytes": 44406,
+    "sha256": "df026597131080710ab6013a802269c28d997d322f199ed3cb9aa35b02e562a0"
+  },
+  {
+    "file": "sources/site_017.json",
+    "bytes": 44381,
+    "sha256": "58f030fd58ba6a476545c842edfd294479399ef26c561758a978a67b609cb821"
+  },
+  {
+    "file": "sources/site_018.json",
+    "bytes": 44406,
+    "sha256": "476461c08254296c8a2f65a5fbdd74028a8a33b4599bdc03ae8b590015722205"
+  },
+  {
+    "file": "sources/sources.txt",
+    "bytes": 95,
+    "sha256": "d5a0d8d171e0ef95a098fa4ea9e4503d029860308427c943d3a11d53f9c4bf2e"
+  },
+  {
+    "file": "sources/ww3_metadata.txt",
+    "bytes": 12600,
+    "sha256": "67e99447d067ee34ebb2bae1141387b7862542e036e2a39ab11fdaa1142cc91a"
+  },
+  {
+    "file": "sources/ww3_region.csv",
+    "bytes": 4885174,
+    "sha256": "09b705c0bd612b167cf0aea25217ed3b96072b85ef56d21861ea03019c0f774f"
+  }
+]

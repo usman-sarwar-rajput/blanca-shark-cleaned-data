@@ -1,6 +1,6 @@
 # Hurricane Blanca juvenile white shark analysis data
 
-This repository contains cleaned and derived analysis tables for an exploratory comparison of juvenile white shark `14_07` around the 2015 Hurricane Blanca calendar period. The original telemetry was collected by the Monterey Bay Aquarium collaboration; this repository's contribution is data preparation, period definitions, environmental matching, and descriptive summaries.
+This repository contains cleaned and derived analysis tables for an exploratory comparison of juvenile white shark `14_07` around the 2015 Hurricane Blanca calendar period. Usman Sarwar Rajput prepared this research-specific analysis release. The original telemetry was collected by the Monterey Bay Aquarium collaboration; the contribution here is data preparation, period definitions, environmental matching, and descriptive summaries.
 
 ## Original data and attribution
 
@@ -17,6 +17,9 @@ Please cite the original dataset and data-description article when using these d
 - `three_day_comparison/`: an alternate shorter comparison.
 - `code/`: processing and analysis scripts.
 - `ANALYSIS_PROTOCOL.md`, `SOURCE_MANIFEST.json`, `requirements.txt`: methods, source checksums, and software requirements.
+- `blanca-shark-cleaned-data.zip`: convenience copy of the prepared files.
+
+The folders are directly browsable on GitHub. For the main paper table, start with `five_stage_comparison/five_stage_summary.csv`; read `five_stage_comparison/README.md` for stage definitions. `results/hourly_raw.csv` is a processed hourly table, not the original manufacturer tag export. The source archive is linked above.
 
 The five-stage table compares 25–27 May, 28–30 May, 31 May–9 June, 10–12 June, and 13–15 June 2015. The active period is a cyclone calendar interval, not verified local storm exposure at the animal. This single-animal descriptive analysis does not establish anticipation, causation, or predictive performance.
 
